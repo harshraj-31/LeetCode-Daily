@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/harshraj-31/LeetCode-Daily/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/harshraj-31/LeetCode-Daily/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1882-process-tasks-using-servers](https://github.com/harshraj-31/LeetCode-Daily/tree/master/1882-process-tasks-using-servers) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/harshraj-31/LeetCode-Daily/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -44,4 +45,24 @@
 |  |
 | ------- |
 | [1882-process-tasks-using-servers](https://github.com/harshraj-31/LeetCode-Daily/tree/master/1882-process-tasks-using-servers) |
+## Depth-First Search
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/harshraj-31/LeetCode-Daily/tree/master/1267-count-servers-that-communicate) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/harshraj-31/LeetCode-Daily/tree/master/1267-count-servers-that-communicate) |
+## Union-Find
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/harshraj-31/LeetCode-Daily/tree/master/1267-count-servers-that-communicate) |
+## Matrix
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/harshraj-31/LeetCode-Daily/tree/master/1267-count-servers-that-communicate) |
+## Counting
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/harshraj-31/LeetCode-Daily/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
