@@ -11,6 +11,7 @@
 | [2161-partition-array-according-to-given-pivot](https://github.com/harshraj-31/LeetCode-Daily/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2747-count-zero-request-servers](https://github.com/harshraj-31/LeetCode-Daily/tree/master/2747-count-zero-request-servers) |
 | [3689-maximum-total-subarray-value-i](https://github.com/harshraj-31/LeetCode-Daily/tree/master/3689-maximum-total-subarray-value-i) |
+| [3693-climbing-stairs-ii](https://github.com/harshraj-31/LeetCode-Daily/tree/master/3693-climbing-stairs-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -65,4 +66,8 @@
 |  |
 | ------- |
 | [1267-count-servers-that-communicate](https://github.com/harshraj-31/LeetCode-Daily/tree/master/1267-count-servers-that-communicate) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3693-climbing-stairs-ii](https://github.com/harshraj-31/LeetCode-Daily/tree/master/3693-climbing-stairs-ii) |
 <!---LeetCode Topics End-->
