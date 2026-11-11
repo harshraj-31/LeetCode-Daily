@@ -25,6 +25,7 @@
 |  |
 | ------- |
 | [3689-maximum-total-subarray-value-i](https://github.com/harshraj-31/LeetCode-Daily/tree/master/3689-maximum-total-subarray-value-i) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/harshraj-31/LeetCode-Daily/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Binary Search
 |  |
 | ------- |
@@ -70,4 +71,8 @@
 |  |
 | ------- |
 | [3693-climbing-stairs-ii](https://github.com/harshraj-31/LeetCode-Daily/tree/master/3693-climbing-stairs-ii) |
+## Math
+|  |
+| ------- |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/harshraj-31/LeetCode-Daily/tree/master/3789-minimum-cost-to-acquire-required-items) |
 <!---LeetCode Topics End-->
