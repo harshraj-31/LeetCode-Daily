@@ -10,6 +10,7 @@
 | [1882-process-tasks-using-servers](https://github.com/harshraj-31/LeetCode-Daily/tree/master/1882-process-tasks-using-servers) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/harshraj-31/LeetCode-Daily/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2747-count-zero-request-servers](https://github.com/harshraj-31/LeetCode-Daily/tree/master/2747-count-zero-request-servers) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/harshraj-31/LeetCode-Daily/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3689-maximum-total-subarray-value-i](https://github.com/harshraj-31/LeetCode-Daily/tree/master/3689-maximum-total-subarray-value-i) |
 | [3693-climbing-stairs-ii](https://github.com/harshraj-31/LeetCode-Daily/tree/master/3693-climbing-stairs-ii) |
 ## Two Pointers
