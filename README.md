@@ -11,6 +11,7 @@
 | [2161-partition-array-according-to-given-pivot](https://github.com/harshraj-31/LeetCode-Daily/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2747-count-zero-request-servers](https://github.com/harshraj-31/LeetCode-Daily/tree/master/2747-count-zero-request-servers) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/harshraj-31/LeetCode-Daily/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/harshraj-31/LeetCode-Daily/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3689-maximum-total-subarray-value-i](https://github.com/harshraj-31/LeetCode-Daily/tree/master/3689-maximum-total-subarray-value-i) |
 | [3693-climbing-stairs-ii](https://github.com/harshraj-31/LeetCode-Daily/tree/master/3693-climbing-stairs-ii) |
 ## Two Pointers
@@ -44,6 +45,7 @@
 |  |
 | ------- |
 | [2747-count-zero-request-servers](https://github.com/harshraj-31/LeetCode-Daily/tree/master/2747-count-zero-request-servers) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/harshraj-31/LeetCode-Daily/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -76,4 +78,24 @@
 |  |
 | ------- |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/harshraj-31/LeetCode-Daily/tree/master/3789-minimum-cost-to-acquire-required-items) |
+## Stack
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/harshraj-31/LeetCode-Daily/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Segment Tree
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/harshraj-31/LeetCode-Daily/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/harshraj-31/LeetCode-Daily/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Monotonic Stack
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/harshraj-31/LeetCode-Daily/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Monotonic Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/harshraj-31/LeetCode-Daily/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 <!---LeetCode Topics End-->
