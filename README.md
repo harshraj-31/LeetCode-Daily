@@ -24,6 +24,7 @@
 |  |
 | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/harshraj-31/LeetCode-Daily/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/harshraj-31/LeetCode-Daily/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Greedy
 |  |
 | ------- |
@@ -105,4 +106,8 @@
 |  |
 | ------- |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/harshraj-31/LeetCode-Daily/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+## String
+|  |
+| ------- |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/harshraj-31/LeetCode-Daily/tree/master/2243-calculate-digit-sum-of-a-string) |
 <!---LeetCode Topics End-->
