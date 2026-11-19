@@ -10,6 +10,7 @@
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/harshraj-31/LeetCode-Daily/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1882-process-tasks-using-servers](https://github.com/harshraj-31/LeetCode-Daily/tree/master/1882-process-tasks-using-servers) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/harshraj-31/LeetCode-Daily/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/harshraj-31/LeetCode-Daily/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/harshraj-31/LeetCode-Daily/tree/master/2747-count-zero-request-servers) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/harshraj-31/LeetCode-Daily/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/harshraj-31/LeetCode-Daily/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
@@ -28,6 +29,7 @@
 ## Greedy
 |  |
 | ------- |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/harshraj-31/LeetCode-Daily/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3689-maximum-total-subarray-value-i](https://github.com/harshraj-31/LeetCode-Daily/tree/master/3689-maximum-total-subarray-value-i) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/harshraj-31/LeetCode-Daily/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Binary Search
@@ -38,6 +40,7 @@
 |  |
 | ------- |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/harshraj-31/LeetCode-Daily/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/harshraj-31/LeetCode-Daily/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/harshraj-31/LeetCode-Daily/tree/master/2747-count-zero-request-servers) |
 ## Hash Table
 |  |
