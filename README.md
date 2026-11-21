@@ -13,6 +13,7 @@
 | [2567-minimum-score-by-changing-two-elements](https://github.com/harshraj-31/LeetCode-Daily/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/harshraj-31/LeetCode-Daily/tree/master/2747-count-zero-request-servers) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/harshraj-31/LeetCode-Daily/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/harshraj-31/LeetCode-Daily/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/harshraj-31/LeetCode-Daily/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3689-maximum-total-subarray-value-i](https://github.com/harshraj-31/LeetCode-Daily/tree/master/3689-maximum-total-subarray-value-i) |
 | [3693-climbing-stairs-ii](https://github.com/harshraj-31/LeetCode-Daily/tree/master/3693-climbing-stairs-ii) |
@@ -46,6 +47,7 @@
 |  |
 | ------- |
 | [2747-count-zero-request-servers](https://github.com/harshraj-31/LeetCode-Daily/tree/master/2747-count-zero-request-servers) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/harshraj-31/LeetCode-Daily/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Sliding Window
 |  |
 | ------- |
@@ -59,6 +61,7 @@
 |  |
 | ------- |
 | [1267-count-servers-that-communicate](https://github.com/harshraj-31/LeetCode-Daily/tree/master/1267-count-servers-that-communicate) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/harshraj-31/LeetCode-Daily/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -114,4 +117,9 @@
 | ------- |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/harshraj-31/LeetCode-Daily/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/harshraj-31/LeetCode-Daily/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/harshraj-31/LeetCode-Daily/tree/master/3331-find-subtree-sizes-after-changes) |
+## Tree
+|  |
+| ------- |
+| [3331-find-subtree-sizes-after-changes](https://github.com/harshraj-31/LeetCode-Daily/tree/master/3331-find-subtree-sizes-after-changes) |
 <!---LeetCode Topics End-->
