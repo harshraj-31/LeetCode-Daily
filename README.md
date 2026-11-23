@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [1267-count-servers-that-communicate](https://github.com/harshraj-31/LeetCode-Daily/tree/master/1267-count-servers-that-communicate) |
+| [1352-product-of-the-last-k-numbers](https://github.com/harshraj-31/LeetCode-Daily/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/harshraj-31/LeetCode-Daily/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/harshraj-31/LeetCode-Daily/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1882-process-tasks-using-servers](https://github.com/harshraj-31/LeetCode-Daily/tree/master/1882-process-tasks-using-servers) |
@@ -86,6 +87,7 @@
 ## Math
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/harshraj-31/LeetCode-Daily/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/harshraj-31/LeetCode-Daily/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/harshraj-31/LeetCode-Daily/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Stack
@@ -111,6 +113,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/harshraj-31/LeetCode-Daily/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/harshraj-31/LeetCode-Daily/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## String
 |  |
@@ -123,4 +126,12 @@
 |  |
 | ------- |
 | [3331-find-subtree-sizes-after-changes](https://github.com/harshraj-31/LeetCode-Daily/tree/master/3331-find-subtree-sizes-after-changes) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/harshraj-31/LeetCode-Daily/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/harshraj-31/LeetCode-Daily/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
