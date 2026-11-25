@@ -19,6 +19,7 @@
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/harshraj-31/LeetCode-Daily/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3689-maximum-total-subarray-value-i](https://github.com/harshraj-31/LeetCode-Daily/tree/master/3689-maximum-total-subarray-value-i) |
 | [3693-climbing-stairs-ii](https://github.com/harshraj-31/LeetCode-Daily/tree/master/3693-climbing-stairs-ii) |
+| [3934-smallest-unique-subarray](https://github.com/harshraj-31/LeetCode-Daily/tree/master/3934-smallest-unique-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -39,6 +40,7 @@
 |  |
 | ------- |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/harshraj-31/LeetCode-Daily/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [3934-smallest-unique-subarray](https://github.com/harshraj-31/LeetCode-Daily/tree/master/3934-smallest-unique-subarray) |
 ## Sorting
 |  |
 | ------- |
@@ -50,6 +52,7 @@
 | ------- |
 | [2747-count-zero-request-servers](https://github.com/harshraj-31/LeetCode-Daily/tree/master/2747-count-zero-request-servers) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/harshraj-31/LeetCode-Daily/tree/master/3331-find-subtree-sizes-after-changes) |
+| [3934-smallest-unique-subarray](https://github.com/harshraj-31/LeetCode-Daily/tree/master/3934-smallest-unique-subarray) |
 ## Sliding Window
 |  |
 | ------- |
@@ -145,4 +148,16 @@
 |  |
 | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/harshraj-31/LeetCode-Daily/tree/master/3411-maximum-subarray-with-equal-products) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/harshraj-31/LeetCode-Daily/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/harshraj-31/LeetCode-Daily/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/harshraj-31/LeetCode-Daily/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
